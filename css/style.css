@@ -85,3 +85,35 @@ a.reservar {
     padding: 5px 10px;
     float: right;
 }
+
+/*              BARRA DE NAV VERTICAL       */
+
+#menu {
+    margin-top: 15px;
+}
+
+.depoimento {
+    width: 226px;
+    height: 164px;
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul#navegacao a {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    padding: 5px;
+    color: #6e672c;
+    line-height: 30px;
+}
+
+ul#navegacao a:hover {
+    background: #fdf6be;
+}
+
+ul#navegacao {
+    float: left;
+}
